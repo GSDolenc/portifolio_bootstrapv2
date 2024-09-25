@@ -1,4 +1,5 @@
 alteraçoes feitas com bootstrap
+
 1-em todas as paginas eu substitui a Estrutura de navegação pela (navbar) do bootstrap
 
 2- na pagina inicial Transformei a lista de habilidades em uma lista de grupo (list-group) do Bootstrap para melhorar a aparência.
